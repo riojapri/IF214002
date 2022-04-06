@@ -1,3 +1,6 @@
+# deskripsi aplikasi jual beli motor dan seperpat motor
+- fiktur fiktur aplikasi ini 
+- melakukan jual beli motor dan seperpat
 # Entitas dan Atribut
 ## Admin 
 - id admin,
