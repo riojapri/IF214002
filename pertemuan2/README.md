@@ -1,6 +1,6 @@
-# deskripsi aplikasi jual beli motor dan seperpat motor
+# deskripsi aplikasi jual beli mobil 
 - fiktur fiktur aplikasi ini 
-- melakukan jual beli motor dan seperpat
+- melakukan jual beli mobil 
 # Entitas dan Atribut
 ## Admin 
 - id admin,
@@ -9,13 +9,10 @@
 - id pembeli 
 - passwod pembeli 
 ## barang
- - motor
- - velg
- - ban
- - shok depan ,belakang
+ - mobil
  ## metode pembayaran
  - m bking 
  - BRImo
  - BCA mobile 
  - BNI moblie 
--  cod
+
