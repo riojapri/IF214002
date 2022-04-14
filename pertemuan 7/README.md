@@ -1,1 +1,12 @@
+# pemodelan Data Histori
+
+# quiz
+## Pemanfaat data histori 
+contoh data histrori terkhir dibeli di aplikasi 
+## Tabel terkhir di beli 
+||mobil|
+|---|---|
+|PK|ID|
+||nama_mobil|
+||type_mobil|
 
