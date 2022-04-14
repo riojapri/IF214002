@@ -15,4 +15,10 @@ contoh data histrori terkhir dibeli di aplikasi
 |PK|ID|
 ||Nama_mobil|
 
+||Histori Beli|
+|---|---|
+|PK|ID|
+|PK|TANGGAL_BELI
+||type_mobil|
+
 
