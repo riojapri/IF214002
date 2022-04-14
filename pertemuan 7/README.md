@@ -11,5 +11,8 @@ contoh data histrori terkhir dibeli di aplikasi
 ||type_mobil|
 
 ||buyer|
+|---|---|
+|PK|ID|
+||Nama_mobil|
 
 
