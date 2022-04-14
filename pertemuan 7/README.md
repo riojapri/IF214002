@@ -21,4 +21,16 @@ contoh data histrori terkhir dibeli di aplikasi
 |PK|TANGGAL_BELI
 ||type_mobil|
 
+sql
+CREATE TABLE
 
+```python
+print("Quiz Pertemuan 7")
+print("Terakhir beli")
+CREATE TABLE Id_buyer(
+   id_buyer INT,
+   Name_mobil VARCHAR(100) NOT NULL,
+   chapter_mobil VARCHAR(40) NOT NULL,
+   submission_date DATE,
+   PRIMARY KEY ( id_buyer )
+);
