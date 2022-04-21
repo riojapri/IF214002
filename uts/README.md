@@ -18,3 +18,4 @@ tentukan time  motor perserta
 daftar kelas 
 membuat kis 
 ## ERD notasi Chen
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/80973244/164370215-eec08d5a-daa6-4ead-9f79-610ab5825e56.png)
