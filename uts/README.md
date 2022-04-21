@@ -15,3 +15,4 @@ tentukan time  motor perserta
 ## perserta 
 daftar kelas 
 membuat kis 
+## ERD notasi Chen
