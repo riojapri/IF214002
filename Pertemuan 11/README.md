@@ -128,6 +128,7 @@ INSERT INTO public.register (id_register,id_admin,id_peserta,id_kelas,id_biaya) 
 ```
 
 ## DQL
+```sql
 SELECT
 	register.id_register,
 	admin.nama_admin,
@@ -145,3 +146,4 @@ inner JOIN kelas_motor
 INNER JOIN biaya_daftar
     on register.id_biaya = biaya_daftar.id_biaya
 ORDER BY register
+```
